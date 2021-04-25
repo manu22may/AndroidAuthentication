@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "11561719363",
+    "project_id": "fir-authentication-71403",
+    "storage_bucket": "fir-authentication-71403.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11561719363:android:9b2461fe0e5402870ea6f6",
+        "android_client_info": {
+          "package_name": "com.capgemini.authenticationfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11561719363-t4ps1i9tfjgfbtr4porsmior82pdu0pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8_vi_jin9H9XZ5Au8PmLt7_uWOVBUexk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11561719363-t4ps1i9tfjgfbtr4porsmior82pdu0pc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11561719363:android:82912b63d047384b0ea6f6",
+        "android_client_info": {
+          "package_name": "com.capgemini.firebaseauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11561719363-t4ps1i9tfjgfbtr4porsmior82pdu0pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8_vi_jin9H9XZ5Au8PmLt7_uWOVBUexk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11561719363-t4ps1i9tfjgfbtr4porsmior82pdu0pc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
